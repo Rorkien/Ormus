@@ -1,0 +1,24 @@
+button.newfile.tooltip=Create new file
+button.openfile.tooltip=Open existing file
+button.savefile.tooltip=Save current file
+button.executefile.tooltip=Execute script
+button.preferences.tooltip=Preferences
+file.osl=Ormus Script File (*.osl)
+
+button.ok=OK
+button.cancel=Cancel
+button.default=Default
+
+preferences.title=Preferences
+preferences.panel.language=Language
+preferences.panel.server=Server
+preferences.settingsapplied=Changes will only have effect after game restart.
+
+networking.error.connecting=Could not connect to the game server. Try again later.
+
+alert.alerttitle=Alert
+alert.errortitle=Error
+alert.savebeforeclose=The current file was modified. Do you wish to save?
+alert.savebeforeclose.title=Save?
+alert.overwrite=This file already exists! Do you wish to overwrite it?
+alert.errorsaving=Error saving file.

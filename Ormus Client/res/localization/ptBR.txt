@@ -1,0 +1,24 @@
+button.newfile.tooltip=Criar novo arquivo
+button.openfile.tooltip=Abrir arquivo existente
+button.savefile.tooltip=Salvar arquivo atual
+button.executefile.tooltip=Executar script
+button.preferences.tooltip=Preferências
+file.osl=Arquivo de script do Ormus (*.osl)
+
+button.ok=OK
+button.cancel=Cancelar
+button.default=Padrões
+
+preferences.title=Preferências
+preferences.panel.language=Idioma
+preferences.panel.server=Servidor
+preferences.settingsapplied=Alterações feitas só terão efeito após a reinicialização do jogo.
+
+networking.error.connecting=Não foi possível conectar ao servidor. Tente novamente mais tarde.
+
+alert.alerttitle=Alerta
+alert.errortitle=Erro
+alert.savebeforeclose=O arquivo atual foi modificado. Deseja salvá-lo?
+alert.savebeforeclose.title=Salvar?
+alert.overwrite=O arquivo já existe! Deseja sobrescrevê-lo?
+alert.errorsaving=Erro ao salvar o arquivo.
