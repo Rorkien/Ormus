@@ -1,0 +1,8 @@
+Welcome to Ormus! We currently have ${online} online players.
+----------------------
+Worlds avaliable:
+${worlds}
+----------------------
+Use:
+	connect(<username>, <password>, <world number>);
+to connect.

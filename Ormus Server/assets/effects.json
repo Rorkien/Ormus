@@ -1,0 +1,15 @@
+[
+	{
+		"id":1,
+		"name":"Poison",
+		"description":"Damages you continually by 5 damage per second, for 20 seconds.",
+		"duration":20,
+		"hitpoints":-5
+	},
+	{
+		"id":2,
+		"name":"Apple Healing",
+		"description":"Heals you by 20 hitpoints instantly.",
+		"hitpoints":20
+	}
+]

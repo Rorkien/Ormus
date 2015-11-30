@@ -1,0 +1,12 @@
+[
+	{
+		"name":"Vielt",
+		"path":"assets/worlds/vielt/",
+		"spawn":186
+	},
+	{
+		"name":"Bucan",
+		"path":"assets/worlds/bucan/",
+		"spawn":186
+	}
+]

@@ -1,0 +1,41 @@
+[
+	{
+		"id":1,
+		"name":"Gold",
+		"description":"Shiny!",
+		"spriteId":1,
+		"consumable":true,
+		"effectsId":[1]
+	},	
+	{
+		"id":2,
+		"name":"Apple",
+		"description":"Heals by 20 hitpoints when used.",
+		"spriteId":2,
+		"consumable":true,
+		"price":2,
+		"effectsId":[2]
+	},	
+	{
+		"id":3,
+		"name":"Chain Mail",
+		"description":"Increases armor by 10, strength by 1 and agility by 2.",
+		"spriteId":3,
+		"price":100,
+		"slot":2,
+		"armor":10,
+		"strength":1,
+		"agility":2
+	},
+	{
+		"id":4,
+		"name":"Dagger",
+		"description":"10 damage. Increases strength and agility by 2.",
+		"spriteId":4,
+		"price":50,
+		"slot":5,
+		"damage":10,
+		"strength":2,
+		"agility":2
+	}
+]

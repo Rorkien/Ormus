@@ -1,0 +1,24 @@
+[
+	{
+		"id":1,
+		"behaviorId":1,
+		"name":"Rabbit",
+		"hitpoints":5,
+		"maxHitpoints":5,
+		"damage":0,
+		"armor":0,
+		"strength":0,
+		"agility":0
+	},
+	{
+		"id":2,
+		"behaviorId":2,
+		"name":"Wolf",
+		"hitpoints":10,
+		"maxHitpoints":10,
+		"damage":8,
+		"armor":0,
+		"strength":0,
+		"agility":0
+	}
+]
